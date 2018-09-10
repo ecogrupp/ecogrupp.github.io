@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /404.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://ecogrupp.ru/sitemap.xml
+Host: ecogrupp.ru
